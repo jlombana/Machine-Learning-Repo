@@ -1,6 +1,7 @@
 import numpy as np
 import copy 
 
+# test
 # listProducts contains the simulations (permutations) for all possible 
 # combinations of items
 # listShelves contains the shelves (horizontal or vertical) that are fixed
